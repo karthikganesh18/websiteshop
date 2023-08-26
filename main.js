@@ -4,6 +4,7 @@ function sofass(){
     
     let ghg = document.getElementById('bye');
     ghg.style.display = 'inline-block'
+    window.scrollTo(0, ghg.offsetTop);
 
 }
 function chairss(){
@@ -15,6 +16,7 @@ function chairss(){
     fhw.style.display = 'none'
     let ghq = document.getElementById('bye1');
     ghq.style.display = 'inline-block'
+    window.scrollTo(0, ghq.offsetTop);
 
 }
 function tabless(){
@@ -24,6 +26,7 @@ function tabless(){
     ghk.style.display = 'inline-block'
     let fhf = document.getElementById('bye');
     fhf.style.display = 'none'
+    window.scrollTo(0, ghk.offsetTop);
 
 }
 
@@ -32,6 +35,7 @@ function recliners(){
     fhk.style.display = 'none'
     let ghk = document.getElementById('bye3');
     ghk.style.display = 'inline-block'
+    window.scrollTo(0, ghk.offsetTop);
 
 }
 
@@ -85,4 +89,3 @@ function remove4(){
     let ghg3 = document.getElementById('bye3');
     ghg3.style.display = 'none'
 }
-   
