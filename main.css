@@ -98,3 +98,28 @@ body{
     border-color: rgb(92, 183, 152);
     
 }
+
+.num1{
+
+    margin-left: 150px;
+    font-size: larger;
+    color: rgb(9, 14, 2);
+    text-decoration: none;
+}
+.hhh{
+    margin-left: 160px;
+}
+.num{
+    padding: 8px;
+    margin-left: -10px;
+    border: 1px solid white;
+    width: 410px;
+    background-color: rgb(180, 190, 225);
+}
+.contact{
+    margin-top: 10px;
+    width: 350px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    background-color: lightgray;
+}
