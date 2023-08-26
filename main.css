@@ -81,3 +81,20 @@ body{
 .bye{
     display: none;
 }
+#bye1{
+    display: none;
+}
+#bye2{
+    display: none;
+}
+#bye3{
+    display: none;
+}
+
+.btn{
+    padding :5px 10px 5px 10px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: rgb(92, 183, 152);
+    
+}
